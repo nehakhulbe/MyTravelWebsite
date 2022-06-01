@@ -1,0 +1,79 @@
+header img {
+    width: 100%;
+}
+nav {
+    text-align: center;
+    background-color: rgb(206, 85, 85);
+    font-size: 150%
+}
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+    margin: 50px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: black;
+    background-color: aqua;
+}
+.stories {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    
+}
+img {
+    width: 100%;
+    opacity: 80%;
+}
+.col {
+    width: 30%;
+    margin: 20px 5px;
+    display: inline-block;
+    box-shadow: rgb(105, 104, 106) 8px 2px 8px;
+}
+.container {
+    width: 50%;
+    text-align: center;
+    background-color: rgba(211, 211, 211, 0.903);
+    padding: 30px;
+    border-radius: 10px;
+}
+label {
+    display: block;
+    margin: 10px 5px;
+    text-align: left;
+}
+fieldset {
+    border: none;
+}
+input {
+    width: 100%;
+    padding: 12px;
+    border: solid grey;
+    border-radius: 10px;
+}
+textarea {
+    height: 200px;
+    width: 100%;
+    border: solid grey;
+    border-radius: 10px;
+}
+#website {
+    justify-content: left;
+}
+#facebook {
+    text-align: left;
+}
+
+input.radio {
+    text-align: left;
+
+}
